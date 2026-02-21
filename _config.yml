@@ -1,0 +1,14 @@
+# Site Settings
+title: sHUMANOID v.1
+description: Bimanual Mobile Humanoid Platform by Sanatan Sinha
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
+
+# URL Configuration - POINTING TO SUBPATH
+url: "https://sanrobo206.github.io"
+baseurl: "/shumanoidv1"
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
