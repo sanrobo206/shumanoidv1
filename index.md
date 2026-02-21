@@ -15,9 +15,9 @@ title: sHUMANOID v.1 - Technical Analysis
     </p>
   </header>
 
-  <!-- Image Placeholder (Waiting for your filenames) -->
-  <div style="text-align: center; margin-bottom: 80px; max-width: 1100px; margin-left: auto; margin-right: auto; height: 400px; background: #fcfcfc; border: 2px dashed #eee; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #aaa; font-size: 1.2rem;">
-    [IMAGE PLACEHOLDER: sHUMANOID v.1 CAD / PHOTO]
+  <!-- Hero Image: sHUMANOID v.1 -->
+  <div style="text-align: center; margin-bottom: 80px; max-width: 1100px; margin-left: auto; margin-right: auto;">
+    <img src="IMG_5483-removebg-preview.png" alt="sHUMANOID v.1 Bimanual Platform" style="width: 100%; max-width: 800px; border-radius: 12px; filter: drop-shadow(0 20px 30px rgba(0,0,0,0.1));">
   </div>
 
   <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 60px 0;">
