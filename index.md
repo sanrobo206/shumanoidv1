@@ -15,14 +15,14 @@ title: sHUMANOID v.1 - Technical Analysis
     </p>
   </header>
 
-  <!-- Hero Image Section (Cropped from Top) -->
-  <div style="max-width: 900px; margin: 0 auto; height: 550px; overflow: hidden; display: flex; align-items: flex-end; justify-content: center;">
+  <!-- Hero Image Section (Agitve Top-Crop) -->
+  <div style="max-width: 900px; margin: 0 auto; height: 450px; overflow: hidden; display: flex; align-items: flex-start; justify-content: center;">
     <img src="IMG_5483-removebg-preview.png" 
          alt="sHUMANOID v.1 Bimanual Platform" 
-         style="width: 100%; max-width: 700px; margin-top: -30%; filter: drop-shadow(0 20px 40px rgba(0,0,0,0.12));">
+         style="width: 100%; max-width: 700px; margin-top: -55%; filter: drop-shadow(0 20px 40px rgba(0,0,0,0.12));">
   </div>
 
-  <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 60px 0;">
+  <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
   <!-- SECTION 1: Deep Technical Overview -->
   <section style="max-width: 950px; margin: 0 auto 100px auto;">
