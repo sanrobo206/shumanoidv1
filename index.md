@@ -6,7 +6,7 @@ title: sHUMANOID v.1 - Technical Analysis
 <div style="width: 100%; margin: 0; padding: 80px 40px; font-family: 'Google Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; color: #111; background-color: #ffffff; box-sizing: border-box; line-height: 1.8;">
 
   <!-- Header Section -->
-  <header style="text-align: center; margin-bottom: 40px;">
+  <header style="text-align: center; margin-bottom: 20px;">
     <h1 style="font-size: 4.5rem; font-weight: 800; color: #000; margin-bottom: 10px; letter-spacing: -0.05em;">
       sHUMANOID v.1
     </h1>
@@ -15,14 +15,14 @@ title: sHUMANOID v.1 - Technical Analysis
     </p>
   </header>
 
-  <!-- Full Original Image Section (Uncropped) -->
-  <div style="text-align: center; margin-bottom: 80px; max-width: 1100px; margin-left: auto; margin-right: auto;">
+  <!-- 45% Top-Crop Hero Image Section -->
+  <div style="max-width: 900px; margin: 0 auto; height: 450px; overflow: hidden; display: flex; align-items: flex-start; justify-content: center; background: #ffffff;">
     <img src="IMG_5483-removebg-preview.png" 
          alt="sHUMANOID v.1 Bimanual Platform" 
-         style="width: 100%; max-width: 800px; border-radius: 12px; filter: drop-shadow(0 20px 30px rgba(0,0,0,0.1));">
+         style="width: 100%; max-width: 750px; margin-top: -45%; filter: drop-shadow(0 20px 30px rgba(0,0,0,0.1));">
   </div>
 
-  <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 60px 0;">
+  <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
   <!-- SECTION 1: Deep Technical Overview -->
   <section style="max-width: 950px; margin: 0 auto 100px auto;">
